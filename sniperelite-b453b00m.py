@@ -1,4 +1,4 @@
-import socket
+importantly socket
 import threading
 import time
 import getpass
@@ -49,7 +49,7 @@ def slowloris(target, port, num_threads):
 
 if __name__ == "__main__":
     clear()  # Clear the screen before showing anything
-    ascii_art_zhanahmad()  # Display the colorful ASCII art for 'zhanAhmad'
+    ascii_art_ZHANAHMAD()  # Display the colorful ASCII art for 'zhanAhmad'
 
     authenticate()  # Authenticate after displaying ASCII art
 

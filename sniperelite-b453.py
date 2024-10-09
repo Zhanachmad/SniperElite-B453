@@ -16,7 +16,7 @@ def ascii_art_sniperelite():
 \033[1;36m    /  /_/__/ /| | \ \___  / /__ code by sniperelite\033[0m
 \033[1;35m   / ___  \/ ___ | ____\ \/ ___/_   THANK YOU FOR USING MY TOOL >\033[0m
 \033[1;32m  /_______/_/  |_//_____//______/  
-\033[1;34m      A web ddos attack tool. So do not use it for wrong and unethical activities\033[0m
+\033[1;34m      Brigade attaker sniper elite internal script\033[0m
 """)
 
 # Password authentication function

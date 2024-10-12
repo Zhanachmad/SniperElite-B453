@@ -18,7 +18,8 @@ def ascii_art_sniperelite():
 \033[1;35m    | $$      $$|  / $$$$$$$$$$$\  \_______$$|  | $$_____/
 \033[1;35m    | $$$$$$$$$$/ / $$|       \$$\   $$$$$$$$|  | $$$$$$$$$$| \THANK YOU FOR USING MY TOOL >\033[0m
 \033[1;32m    |__________/ |___/         |__|  \_______/   \__________/
-\033[1;34m      BRIGADE ATTACKER SNIPER ELITE ==> internal script By:ZA99\033[0m
+\033[1;34m   
+\033[1;34m     BRIGADE ATTACKER SNIPER ELITE ==> internal script By:ZA99\033[0m
 """)
 
 # Password authentication function

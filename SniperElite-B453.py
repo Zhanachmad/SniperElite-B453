@@ -11,12 +11,14 @@ def clear():
 # Colored ASCII Art for "sniperelite" using '|_' style
 def ascii_art_sniperelite():
     print("""
-\033[1;31m      ______  ___   ______   ______\033[0m
-\033[1;31m     /  /\  \/   | / ____/  / ____/   |\033[0m
-\033[1;36m    /  /_/__/ /| | \ \___  / /__ code by sniperelite\033[0m
-\033[1;35m   / ___  \/ ___ | ____\ \/ ___/_   THANK YOU FOR USING MY TOOL >\033[0m
-\033[1;32m  /_______/_/  |_//_____//______/  
-\033[1;34m      Brigade Attacker Sniper Elite internal script By:ZA99\033[0m
+\033[1;31m     /$$$$$$$$$\       / $$$\      /$$$$$$$$$|   /$$$$$$$$$| \033[0m
+\033[1;31m    | $$      $$|     / $$/$$\    | $$______/   | $$|______/ \033[0m
+\033[1;36m    | $$      $$/    / $$/ \$$\   | $$|         | $$
+\033[1;36m    | $$$$$$$$ \    / $$/   \$$\  | $$$$$$$$$|  | $$$$$$$$| \code by SNIPER-ELITE\033[0m
+\033[1;35m    | $$      $$|  / $$$$$$$$$$$\  \_______$$|  | $$_____/
+\033[1;35m    | $$$$$$$$$$/ / $$|       \$$\   $$$$$$$$|  | $$$$$$$$$$| \THANK YOU FOR USING MY TOOL >\033[0m
+\033[1;32m    |__________/ |___/         |__|  \_______/   \__________/
+\033[1;34m      BRIGADE ATTACKER SNIPER ELITE ==> internal script By:ZA99\033[0m
 """)
 
 # Password authentication function
